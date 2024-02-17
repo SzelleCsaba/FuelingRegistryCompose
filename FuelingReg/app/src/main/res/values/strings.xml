@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Tankolások</string>
+    <string name="some_error_message">Error</string>
+    <string name="standard_gasoline">Benzin</string>
+    <string name="standard_diesel">Gázolaj</string>
+    <string name="premium_gasoline">Prémium Benzin</string>
+    <string name="premium_diesel">Prémium Gázolaj</string>
+    <string name="dialog_ok_button_text">Ok</string>
+    <string name="dialog_dismiss_button_text">Bezár</string>
+    <string name="textfield_label_carname">Név</string>
+    <string name="textfield_label_cardescription">Leírás</string>
+    <string name="textfield_label_carcapacity">Üzemanyagtartály mérete (L)</string>
+    <string name="textfield_label_fuelingAmount">Mennyiség (L)</string>
+    <string name="textfield_label_pricePerLiter">Egységár (Ft/L)</string>
+    <string name="textfield_label_odoAtFueling">Kilométeróra állása (Km)</string>
+    <string name="textfield_label_isFullTank">Telitank?</string>
+    <string name="app_bar_title_cars">Autók</string>
+    <string name="text_empty_car_list">Nincs egyetlen autód sem</string>
+    <string name="list_item_supporting_text">Üzemanyagtartály: %sL</string>
+    <string name="app_bar_title_create_car">Autó létrehozása</string>
+    <string name="list_item_date_text">Tankolás dátuma: %1$s</string>
+    <string name="text_empty_fueling_list">Nincs egyetlen tankolásod sem</string>
+    <string name="text_your_fueling_list">Tankolások listája</string>
+    <string name="app_bar_title_fueling_list">Autó tankolásai</string>
+    <string name="app_bar_title_create_fueling">Tankolás létrehozása</string>
+    <string name="list_item_amount_text">Mennyiség: %sL</string>
+    <string name="list_item_odo_text">Kilóméteróra: %sKm</string>
+    <string name="list_item_price_text">Egységár: %sFt/L</string>
+    <string name="list_item_sumprice_text">Végösszeg: %sFt</string>
+    <string name="list_item_consumption_text">Fogyasztás: %sL/100Km</string>
+</resources>
